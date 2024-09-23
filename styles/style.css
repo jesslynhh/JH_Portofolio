@@ -303,7 +303,7 @@ nav ul li a {
 .education .line div{
     width: 2px;
     height: 100%;
-    background-color: var(--borderColor);
+    background-color: var(--primaryIconColor);
     position: relative;
 }
 
