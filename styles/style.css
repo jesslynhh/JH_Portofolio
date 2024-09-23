@@ -301,7 +301,7 @@ nav ul li a {
 }
 
 .education .line div{
-    width: 2px;
+    width: 3px;
     height: 100%;
     background-color: var(--primaryIconColor);
     position: relative;
@@ -319,7 +319,7 @@ nav ul li a {
     content: "";
     width: 15px;
     height: 15px;
-    background: var(--borderColor);
+    background: var(--primaryIconColor);
     border-radius: 50%;
     position: absolute;
     left: -6px;
